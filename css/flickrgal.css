@@ -93,7 +93,7 @@
         background-color: #aaa; }
         #flickrgal #image-grid .image .navigate-back:hover,
         #flickrgal #image-grid .album .navigate-back:hover {
-          background-color: #0076E3;
+          background-color: #0074D9;
           opacity: 1; }
     @media (max-width: 750px) {
       #flickrgal #image-grid .image,

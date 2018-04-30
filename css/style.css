@@ -46,7 +46,6 @@
 /*font-family: 'Work Sans', sans-serif;
 font-family: 'Merriweather', serif;*/
 
-@import url('font-awesome.css');
 @import url('flaticon.css');
 @import url('animate.css');
 @import url('jquery-ui.css');
@@ -1466,7 +1465,7 @@ img{
 
 .testimonials-one{
 	position:relative;
-	padding:100px 0px;
+	padding:60px 0px;
 	border-top:1px solid #f0f0f0;
 	text-align:center;	
 }
@@ -4403,4 +4402,8 @@ img{
 
 .comment-form .form-group .theme-btn{
 	margin-top:10px;	
+}
+
+.title-houzz{
+	padding-bottom: 60px;
 }
